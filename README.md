@@ -27,7 +27,7 @@ python main.py
 
 👉 **Telegram:** [**https://t.me/jai_shrihanuman_ji**](https://t.me/jai_shrihanuman_ji)
 
-🌐 **Website:** [**https://cyberexpertworked.blogspot.com**](https://cyberexpertworked.blogspot.com) 
+🌐 **Website:** [**https://cybersecurityworked.blogspot.com**](https://cybersecurityworked.blogspot.com) 
 
 ---
 
