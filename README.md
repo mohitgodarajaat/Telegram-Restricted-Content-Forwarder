@@ -27,11 +27,11 @@ python main.py
 
 👉 **Telegram:** [**https://t.me/jai_shrihanuman_ji**](https://t.me/jai_shrihanuman_ji)
 
-🌐 **Website:** [**https://erfan4lx.com**](https://cyberexpertworked.com) 
+🌐 **Website:** [**https://cyberexpertworked.blogspot.com**](https://cyberexpertworked.blogspot.com) 
 
 ---
 
-🆔My YouTube Channel : https://youtube.com/@mohitexploits?si=LbNEqCQsAhmrVPaB
+🆔My YouTube Channel : https://youtube.com/@mohitexploits
 
 🆔My Telegram Channel : https://t.me/jai_shrihanuman_ji
 
@@ -46,7 +46,7 @@ Always use anonymized/test datasets or data you have *explicit consent* to proce
   Follow Me On
 </p>
 <p align="center">
-  <a href=" https://youtube.com/@mohitexploits?si=LbNEqCQsAhmrVPaB">
+  <a href=" https://youtube.com/@mohitexploits">
     <img src="https://www.iconsdb.com/icons/preview/black/youtube-4-xxl.png" width="40" height="40">
   </a>
 </p>
